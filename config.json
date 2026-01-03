@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "targets": [
+    "C:/Program Files/AppA/viewer.exe",
+    "D:/Tools/Client/client.exe",
+    "C:/Apps/Host/hosts.exe"
+  ]
+}
